@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+geopandas
+pyogrio
+shapely
+networkx
+osmnx
+pulp>=2.8,<3
+fastapi
+uvicorn[standard]
+python-dotenv
+xai-sdk
+httpx
